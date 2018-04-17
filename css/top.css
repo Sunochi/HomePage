@@ -12,7 +12,7 @@ main header {
 }
 
 main #info {
-    width: 30%;
+    width: 35%;
 }
 
 main #info .user_info {
@@ -21,7 +21,7 @@ main #info .user_info {
 
 main #info .english_text {
     margin-top: 60px;
-    width: 90%;
+    width: 80%;
 }
 
 main #info .mail {
@@ -38,7 +38,7 @@ main #info .address {
 }
 
 main #latest_infomation{
-    width: 70%;
+    width: 65%;
 }
 
 main #latest_infomation .infomation_text{
