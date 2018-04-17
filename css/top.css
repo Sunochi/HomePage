@@ -1,0 +1,108 @@
+#content {
+    display: flex;
+    background-image: url("../src/sample.png");
+}
+
+#disc-top {
+    color: pink;
+}
+
+#disc-movie {
+    color: greenyellow;
+}
+
+#disc-drama {
+    color: lightblue;
+}
+
+#disc-stage {
+    color: #6081ca;
+}
+
+#disc-photo {
+    color: blue
+}
+
+#disc-book {
+    color: darkblue;
+}
+
+#disc-manager {
+    color: purple;
+}
+
+nav {
+    width: 25%;
+    background-color: #dda7e7;
+    height: auto;
+}
+
+nav ul {
+    margin-top: 50px;
+}
+
+nav ul li {
+    margin: 30px 0px;
+    list-style-type: disc;
+}
+
+main {
+    width: 80%;
+    margin: 0px 170px;
+}
+
+main header {
+    text-align: center;
+}
+
+#main_content {
+    display: flex;
+}
+
+main #info {
+    width: 30%;
+}
+
+main #info .user_info {
+    list-style: none;
+}
+
+main #info .english_text {
+    margin-top: 60px;
+    width: 90%;
+}
+
+main #info .mail {
+    margin-top: 30px;
+}
+
+main #info .address {
+    margin-top: 30px;
+}
+
+#info img {
+    height: 302px;
+    width: 256px;
+}
+
+main #latest_infomation{
+    width: 70%;
+}
+
+main #latest_infomation .infomation_text{
+    text-align: center;
+    padding: 120px 0px;
+}
+
+main #latest_infomation .winning {
+    padding: 20px 0px;
+}
+
+main #latest_infomation .movie_infomation {
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+main #latest_infomation .movie {
+    margin: 20px 0px;
+}
