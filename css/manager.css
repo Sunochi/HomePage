@@ -1,0 +1,22 @@
+#content {
+    display: flex;
+    height: 100vh;
+    background-color: #bac0d8;
+}
+
+#main_content {
+    margin: 0px 0px;
+    width: 75%;
+}
+
+#main_content main header h1 {
+    text-align: center;
+}
+
+#main_content main .text {
+    margin: 0px 150px 70px;
+}
+
+#main_content hr {
+    border-color: rgb(179, 179, 179);
+}

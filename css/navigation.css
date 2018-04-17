@@ -1,9 +1,10 @@
 nav {
     width: 25%;
-    background-color: #dda7e7;
+    background-color: #bac0d8;
     height: auto;
     overflow: scroll;
     resize: both;
+    border-right: double 4px #000000;
 }
 
 nav ul {
