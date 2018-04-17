@@ -1,20 +1,17 @@
 #content {
     display: flex;
     background-image: url("../src/sample.png");
+    height: 100vh;
 }
 
 main header {
     text-align: center;
 }
 
-li {
+.overview ul li {
     font-weight: bold;
 }
 
 td {
     font-weight: bold;
-}
-
-main {
-    margin: 0px 200px;
 }
