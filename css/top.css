@@ -3,54 +3,6 @@
     background-image: url("../src/sample.png");
 }
 
-#disc-top {
-    color: pink;
-}
-
-#disc-movie {
-    color: greenyellow;
-}
-
-#disc-drama {
-    color: lightblue;
-}
-
-#disc-stage {
-    color: #6081ca;
-}
-
-#disc-photo {
-    color: blue
-}
-
-#disc-book {
-    color: darkblue;
-}
-
-#disc-manager {
-    color: purple;
-}
-
-nav {
-    width: 25%;
-    background-color: #dda7e7;
-    height: auto;
-}
-
-nav ul {
-    margin-top: 50px;
-}
-
-nav ul li {
-    margin: 30px 0px;
-    list-style-type: disc;
-}
-
-main {
-    width: 80%;
-    margin: 0px 170px;
-}
-
 main header {
     text-align: center;
 }

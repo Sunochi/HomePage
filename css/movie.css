@@ -1,0 +1,20 @@
+#content {
+    display: flex;
+    background-image: url("../src/sample.png");
+}
+
+main header {
+    text-align: center;
+}
+
+li {
+    font-weight: bold;
+}
+
+td {
+    font-weight: bold;
+}
+
+main {
+    margin: 0px 200px;
+}
