@@ -1,0 +1,17 @@
+#content {
+    display: flex;
+    background-image: url("../src/sample.png");
+    height: 100vh;
+}
+
+main .performance {
+    margin: 0px 60px;
+}
+
+main header {
+    text-align: center;
+}
+
+td {
+    font-weight: bold;
+}
